@@ -536,17 +536,6 @@ X_train, X_test, y_train, y_test = train_test_split(dataset, test_size=0.3, rand
 ```
 
 
-```python
-X_train.shape
-```
-
-
-
-
-    (213, 2)
-
-
-
 ### 4. Visualizando Graficamente
 
 
