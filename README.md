@@ -42,7 +42,8 @@ print('Acurácia KNN scikit-learn: {}'.format(accuracy_score(y_test, preds)))
 ```
 
     Acurácia KNN scikit-learn: 0.6222222222222222
-
+---
+---
 
 ## 2) Tarefa 2: implementar a função “predict_KNN(pontos, ponto)”, que recebe o conjunto de treinamento e o ponto cuja classe será predita, porém, aqui, você realizará uma regressão. Considere as features como sendo apenas age e chol, tendo thalach como o alvo da regressão. Esta tarefa deve ser realizada nos dois datasets fornecidos.
 
