@@ -82,3 +82,7 @@ print('Acurácia KNN scikit-learn: {}'.format(accuracy_score(y_test, preds)))
 #### 2.2. Modelo KNN Regressor Scikit-Learn
     MSE: 1868079.366263703
     RMSE: 1366.776999463959
+
+### 3. Visualizando graficamente as predições
+
+![png](imagens/output_37_0.png)
